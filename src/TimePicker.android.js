@@ -208,7 +208,6 @@
      backgroundColor: "#EAF4FF",
      height: 28,
      width: 298,
-     borderRaduis: 100,
      borderRadius: 13,
      borderWidth: 1,
      borderColor: 'transparent'
