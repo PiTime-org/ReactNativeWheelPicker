@@ -192,9 +192,7 @@
      alignItems: 'center',
      justifyContent: 'center',
      flexDirection: 'row',
-     width: 330,
-     borderRaduis: 8,
-     borderColor: '#000'
+     width: 330
    },
    wheelPicker: {
      height: 110,
