@@ -9,7 +9,7 @@ interface Props {
 
 const TimePicker: React.FC<Props> = props => {
   return (
-    <DatePicker mode={'time'} {...props} onDateSelected={props.onTimeSelected}/>
+    <DatePicker mode={'time'} locale={'en_GB'} {...props} onDateSelected={props.onTimeSelected}/>
   );
 };
 
